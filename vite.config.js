@@ -6,6 +6,7 @@ export default defineConfig(() => {
     build: {
       outDir: 'build',
     },
-    plugins: [react()],base:"/lab-react-hoc-render-props-boilerplate"
+    plugins: [react()],
+    base:"/lab-react-hoc-render-props-boilerplate"
   };
 });
